@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 24 Jan 2019 16:43:02 at http://www.bobsrehabcentre.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f0#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.bobsrehabcentre.com/ -O1 "C:\Users\jyyae\Desktop\websiteDL\TestProject" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:43:14	Error: 	"Not Found" (404) at link www.bobsrehabcentre.com/assets/ico/favicon.ico (from www.bobsrehabcentre.com/)
+16:43:27	Error: 	"Not Found" (404) at link www.bobsrehabcentre.com/assets/js/modernizr.js (from www.bobsrehabcentre.com/)
+16:45:02	Error: 	"Not Found" (404) at link www.bobsrehabcentre.com/assets/img/contact.jpg (from www.bobsrehabcentre.com/assets/css/style.css)
+16:45:03	Warning: 	Retry after error -4 (No data (connection closed)) at link www.bobsrehabcentre.com/assets/img/portfolio/acupuncture02.jpg (from www.bobsrehabcentre.com/acupuncture.html)
+16:45:15	Error: 	"Not Found" (404) at link www.bobsrehabcentre.com/assets/img/portfolio/rmt01.jpg (from www.bobsrehabcentre.com/rmt.html)
+16:45:15	Warning: 	Retry after error -4 (No data (connection closed)) at link www.bobsrehabcentre.com/Popover requires tooltip.js (from www.bobsrehabcentre.com/assets/js/bootstrap.min.js)
+16:45:16	Error: 	"Not Found" (404) at link www.bobsrehabcentre.com/HEAD (from www.bobsrehabcentre.com/assets/js/retina-1.1.0.js)
+16:45:16	Error: 	"Not Found" (404) at link www.bobsrehabcentre.com/youtu.be/ (from www.bobsrehabcentre.com/assets/js/jquery.prettyPhoto.js)
+16:45:16	Warning: 	Retry after error -4 (No data (connection closed)) at link www.bobsrehabcentre.com/assets/css/images/prettyPhoto/dark_rounded/btnPrevious.png (from www.bobsrehabcentre.com/assets/css/prettyPhoto.css)
+16:45:16	Warning: 	Retry after error -4 (No data (connection closed)) at link www.bobsrehabcentre.com/assets/css/images/prettyPhoto/facebook/contentPatternTop.png (from www.bobsrehabcentre.com/assets/css/prettyPhoto.css)
+16:45:17	Error: 	"Not Found" (404) at link www.bobsrehabcentre.com/assets/images/nav.png (from www.bobsrehabcentre.com/assets/css/hoverex-all.css)
+16:45:25	Error: 	"Not Found" (404) at link www.bobsrehabcentre.com/Popover requires tooltip.js (from www.bobsrehabcentre.com/assets/js/bootstrap.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 23 seconds : 114 links scanned, 101 files written (4125074 bytes overall) [3588320 bytes received at 25093 bytes/sec], 837832 bytes transferred using HTTP compression in 31 files, ratio 29%, 4.5 requests per connection
+(8 errors, 4 warnings, 0 messages)
